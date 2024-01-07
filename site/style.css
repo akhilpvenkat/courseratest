@@ -1,1 +1,5 @@
-p 
+p {
+    font-size: 130%;
+    background-color: aquamarine;
+    color: black;
+}
