@@ -1,1 +1,11 @@
 p {color: aqua;}
+
+.monkey {
+color: blue;
+text-align: center;
+font-size: larger;
+font-weight: 400;
+p {
+font-size: larger;    
+font-family: Georgia;
+}
